@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729556738 source:c:\users\hp\onedrive\desktop\mipartepunto2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+	<climits>
+	<cmath>
+	<string>
+	<sstream>
+	<limits>
+
