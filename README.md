@@ -31,3 +31,4 @@ Estas evidencias me retaron ya que en algunas nunca habia trabajado con las pers
 Como tal, la logica de una con otro no tienen mucho que ver. Aun asi, pues el desarollo de software tiene unos pasos a seguir por lo cual si en los proyectos se trabaja siguiente los pasos indicados, entonces pues si tienen relacion ya que siguen el mismo flujo.
 
 Me siento orgulloso al saber que he tenido ideas padres y profesorse que me han impulsado. Siento que el tener curiosidad por saber como funcionan las cosas ha hecho que yo mejore en la ingenería de software. Dado esto, yo creo que debería continuar siendo creativo para poder sacar mis logros adelante.
+
