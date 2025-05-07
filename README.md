@@ -26,6 +26,11 @@ Parrafo sobre mi:
 
 Me gusta mucho la tecnología. Ultimamente me he dado cuenta que me gusta mucho la parte de inteligencia artificial y las matematicas. Dado eso, actualmente estoy tomando cursos de como funcionan y como se aplican las redes neuronales. Tambien, tengo varios libros enfocados en matematicas que abarcan temas como la topología y la estadistica. Aun asi, la verdad es que si algo me gusto pues me gusta meterme en ello. Yo creo que si tuviera que escoger un proyecto que ya existe en el cual me hubiera gustado participar en creando sería a lo mejor cualqueir software de mapas, el juego de GeoGuesser o la aplicación de shazam. Yo creo que si tengo la capacidad y oportunidad de ayudar a la sociedad con mis hablidades, la tomaría, por lo cual pienso en el futuro intentar trabajar en algun lugar en donde pueda ayudar a personas. Me gustan los deportes, soy fan de los Lakers y de los Miami Dolphins. Me encanta jugar basket mas que verlo, y me encanta ver el futbol americano mas que jugarlo. Amo a los perros se me hacen super divertidos. Me gusta la musica el genero que sea con que este buena la canción.
 
+
+
+Las plataformas en las que prefiero trabajar son Visual Studio, usando generalmente código de c++ y python. Aun asi, estoy abierto a usar cualquier lenguaje de programación. Nunca he participado en un hackathon. 
+
+
 Reflexión:
 
 Estas evidencias me retaron ya que en algunas nunca habia trabajado con las personas del equipo por lo cual aveces era complicado interactuar ya que no sabía como era su forma de trabajar. Aun asi, despues de tiempo logramos sacar todo bien. Tambien, los temas que veiamos no eran tan simples por lo cual el tener que aprender sobre el tema y entenderle era todo otro rollo.
